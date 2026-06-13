@@ -8,7 +8,8 @@
 
 # Project Description
 
-This project implements  time driven foreground/background scheduling system is built on STM32F407ZGT6 microcontroller using the RT-Thread RT-Spark development board and demonstrate the use of hardware timers, interrupt service routines, cyclic executive scheduling and event triggered interrupts.
+This project implements timer-based interrupts and a cyclic executive scheduler
+on the STM32F407ZGT6 microcontroller (RT-Thread RT-Spark board).
 ---
 
 # Hardware
