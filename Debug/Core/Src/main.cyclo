@@ -4,5 +4,5 @@
 ../Core/Src/main.c:208:13:MX_TIM2_Init	4
 ../Core/Src/main.c:253:13:MX_TIM3_Init	4
 ../Core/Src/main.c:298:13:MX_GPIO_Init	1
-../Core/Src/main.c:335:6:HAL_GPIO_EXTI_Callback	2
-../Core/Src/main.c:350:6:Error_Handler	1
+../Core/Src/main.c:346:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:361:6:Error_Handler	1
